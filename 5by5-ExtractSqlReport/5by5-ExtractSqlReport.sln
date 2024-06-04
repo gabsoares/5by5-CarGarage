@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5by5-ExtractSqlReport", "5by5-ExtractSqlReport\5by5-ExtractSqlReport.csproj", "{78DA7884-9CF0-4648-8005-B978BC3427BB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "..\5by5-GenerateCarJson\Models\Models.csproj", "{0559FA28-5314-4BA9-8063-3E2F0D421F8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78DA7884-9CF0-4648-8005-B978BC3427BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78DA7884-9CF0-4648-8005-B978BC3427BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78DA7884-9CF0-4648-8005-B978BC3427BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78DA7884-9CF0-4648-8005-B978BC3427BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0559FA28-5314-4BA9-8063-3E2F0D421F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0559FA28-5314-4BA9-8063-3E2F0D421F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0559FA28-5314-4BA9-8063-3E2F0D421F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0559FA28-5314-4BA9-8063-3E2F0D421F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B478494E-8B8D-4228-BF0A-632A2228C269}
+	EndGlobalSection
+EndGlobal

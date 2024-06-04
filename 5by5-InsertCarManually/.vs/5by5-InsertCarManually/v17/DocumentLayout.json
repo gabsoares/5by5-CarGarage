@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adm\\Documents\\5by5-CarGarage\\5by5-InsertCarManually\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9514A2-FC67-4720-B400-C00920B7AAEC}|Repositories\\Repositories.csproj|c:\\users\\adm\\documents\\5by5-cargarage\\5by5-insertcarmanually\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9514A2-FC67-4720-B400-C00920B7AAEC}|Repositories\\Repositories.csproj|solutionrelative:repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9514A2-FC67-4720-B400-C00920B7AAEC}|Repositories\\Repositories.csproj|c:\\users\\adm\\documents\\5by5-cargarage\\5by5-insertcarmanually\\repositories\\interface\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9514A2-FC67-4720-B400-C00920B7AAEC}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interface\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92D373-43D9-4F24-9E8B-128F2F6EC0E6}|5by5-InsertCarManually\\5by5-InsertCarManually.csproj|c:\\users\\adm\\documents\\5by5-cargarage\\5by5-insertcarmanually\\5by5-insertcarmanually\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E92D373-43D9-4F24-9E8B-128F2F6EC0E6}|5by5-InsertCarManually\\5by5-InsertCarManually.csproj|solutionrelative:5by5-insertcarmanually\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\Documents\\5by5-CarGarage\\5by5-InsertCarManually\\Repositories\\Interface\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interface\\ICarRepository.cs",
+              "ToolTip": "C:\\Users\\adm\\Documents\\5by5-CarGarage\\5by5-InsertCarManually\\Repositories\\Interface\\ICarRepository.cs",
+              "RelativeToolTip": "Repositories\\Interface\\ICarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T22:40:59.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\Documents\\5by5-CarGarage\\5by5-InsertCarManually\\Repositories\\CarRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\adm\\Documents\\5by5-CarGarage\\5by5-InsertCarManually\\Repositories\\CarRepository.cs",
+              "RelativeToolTip": "Repositories\\CarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T22:40:48.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\Documents\\5by5-CarGarage\\5by5-InsertCarManually\\5by5-InsertCarManually\\Program.cs",
+              "RelativeDocumentMoniker": "5by5-InsertCarManually\\Program.cs",
+              "ToolTip": "C:\\Users\\adm\\Documents\\5by5-CarGarage\\5by5-InsertCarManually\\5by5-InsertCarManually\\Program.cs",
+              "RelativeToolTip": "5by5-InsertCarManually\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T22:37:59.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5by5-GenerateCarJson", "5by5-GenerateCarJson\5by5-GenerateCarJson.csproj", "{AA8AA5CB-D73B-4827-BDC9-D2154B832670}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{75E693A8-9E31-4C8F-999F-A3911B2B8937}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA8AA5CB-D73B-4827-BDC9-D2154B832670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8AA5CB-D73B-4827-BDC9-D2154B832670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8AA5CB-D73B-4827-BDC9-D2154B832670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8AA5CB-D73B-4827-BDC9-D2154B832670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75E693A8-9E31-4C8F-999F-A3911B2B8937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E693A8-9E31-4C8F-999F-A3911B2B8937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E693A8-9E31-4C8F-999F-A3911B2B8937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E693A8-9E31-4C8F-999F-A3911B2B8937}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E27EAE3-A8D4-4441-9516-FF18C6502274}
+	EndGlobalSection
+EndGlobal

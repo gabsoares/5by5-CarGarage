@@ -1,0 +1,16 @@
+C:\Users\adm\Documents\5by5-CarGarage\5by5-PersistCarsInSQL\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\adm\Documents\5by5-CarGarage\5by5-PersistCarsInSQL\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\adm\Documents\5by5-CarGarage\5by5-PersistCarsInSQL\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\adm\Documents\5by5-CarGarage\5by5-PersistCarsInSQL\Repositories\bin\Debug\net6.0\Models.dll
+C:\Users\adm\Documents\5by5-CarGarage\5by5-PersistCarsInSQL\Repositories\bin\Debug\net6.0\Models.pdb
+C:\Users\adm\Documents\5by5-CarGarage\5by5-PersistCarsInSQL\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\adm\Documents\5by5-CarGarage\5by5-PersistCarsInSQL\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm\Documents\5by5-CarGarage\5by5-PersistCarsInSQL\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\adm\Documents\5by5-CarGarage\5by5-PersistCarsInSQL\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\adm\Documents\5by5-CarGarage\5by5-PersistCarsInSQL\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\adm\Documents\5by5-CarGarage\5by5-PersistCarsInSQL\Repositories\obj\Debug\net6.0\Reposito.787EC4B2.Up2Date
+C:\Users\adm\Documents\5by5-CarGarage\5by5-PersistCarsInSQL\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\adm\Documents\5by5-CarGarage\5by5-PersistCarsInSQL\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\adm\Documents\5by5-CarGarage\5by5-PersistCarsInSQL\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\adm\Documents\5by5-CarGarage\5by5-PersistCarsInSQL\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\adm\Documents\5by5-CarGarage\5by5-PersistCarsInSQL\Repositories\obj\Debug\net6.0\Repositories.sourcelink.json

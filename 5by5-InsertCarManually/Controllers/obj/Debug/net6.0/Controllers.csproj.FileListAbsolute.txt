@@ -17,3 +17,4 @@ C:\Users\adm\Documents\5by5-CarGarage\5by5-InsertCarManually\Controllers\obj\Deb
 C:\Users\adm\Documents\5by5-CarGarage\5by5-InsertCarManually\Controllers\obj\Debug\net6.0\refint\Controllers.dll
 C:\Users\adm\Documents\5by5-CarGarage\5by5-InsertCarManually\Controllers\obj\Debug\net6.0\Controllers.pdb
 C:\Users\adm\Documents\5by5-CarGarage\5by5-InsertCarManually\Controllers\obj\Debug\net6.0\ref\Controllers.dll
+C:\Users\adm\Documents\5by5-CarGarage\5by5-InsertCarManually\Controllers\obj\Debug\net6.0\Controllers.sourcelink.json

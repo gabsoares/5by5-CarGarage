@@ -62,3 +62,4 @@ C:\Users\adm\Documents\5by5-CarGarage\5by5-InsertCarManually\5by5-InsertCarManua
 C:\Users\adm\Documents\5by5-CarGarage\5by5-InsertCarManually\5by5-InsertCarManually\bin\Debug\net6.0\Services.dll
 C:\Users\adm\Documents\5by5-CarGarage\5by5-InsertCarManually\5by5-InsertCarManually\bin\Debug\net6.0\Controllers.pdb
 C:\Users\adm\Documents\5by5-CarGarage\5by5-InsertCarManually\5by5-InsertCarManually\bin\Debug\net6.0\Services.pdb
+C:\Users\adm\Documents\5by5-CarGarage\5by5-InsertCarManually\5by5-InsertCarManually\obj\Debug\net6.0\5by5-InsertCarManually.sourcelink.json

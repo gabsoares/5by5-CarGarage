@@ -59,3 +59,7 @@ C:\Users\adm\Documents\5by5-CarGarage\5by5-ExtractSqlReport\5by5-ExtractSqlRepor
 C:\Users\adm\Documents\5by5-CarGarage\5by5-ExtractSqlReport\5by5-ExtractSqlReport\obj\Debug\net6.0\5by5-ExtractSqlReport.pdb
 C:\Users\adm\Documents\5by5-CarGarage\5by5-ExtractSqlReport\5by5-ExtractSqlReport\obj\Debug\net6.0\5by5-ExtractSqlReport.genruntimeconfig.cache
 C:\Users\adm\Documents\5by5-CarGarage\5by5-ExtractSqlReport\5by5-ExtractSqlReport\obj\Debug\net6.0\ref\5by5-ExtractSqlReport.dll
+C:\Users\adm\Documents\5by5-CarGarage\5by5-ExtractSqlReport\5by5-ExtractSqlReport\bin\Debug\net6.0\Controllers.dll
+C:\Users\adm\Documents\5by5-CarGarage\5by5-ExtractSqlReport\5by5-ExtractSqlReport\bin\Debug\net6.0\Services.dll
+C:\Users\adm\Documents\5by5-CarGarage\5by5-ExtractSqlReport\5by5-ExtractSqlReport\bin\Debug\net6.0\Controllers.pdb
+C:\Users\adm\Documents\5by5-CarGarage\5by5-ExtractSqlReport\5by5-ExtractSqlReport\bin\Debug\net6.0\Services.pdb

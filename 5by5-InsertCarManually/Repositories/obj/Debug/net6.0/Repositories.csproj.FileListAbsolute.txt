@@ -13,3 +13,4 @@ C:\Users\adm\Documents\5by5-CarGarage\5by5-InsertCarManually\Repositories\obj\De
 C:\Users\adm\Documents\5by5-CarGarage\5by5-InsertCarManually\Repositories\obj\Debug\net6.0\refint\Repositories.dll
 C:\Users\adm\Documents\5by5-CarGarage\5by5-InsertCarManually\Repositories\obj\Debug\net6.0\Repositories.pdb
 C:\Users\adm\Documents\5by5-CarGarage\5by5-InsertCarManually\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\adm\Documents\5by5-CarGarage\5by5-InsertCarManually\Repositories\obj\Debug\net6.0\Repositories.sourcelink.json

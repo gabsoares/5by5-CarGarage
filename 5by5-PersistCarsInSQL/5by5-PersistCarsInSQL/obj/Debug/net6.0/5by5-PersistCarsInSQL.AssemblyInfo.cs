@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("5by5-PersistCarsInSQL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33bc9afce44988d2334eddeaaf73b82b1c934792")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88907571cb5fb23ca3db0d33b53884f633e5f468")]
 [assembly: System.Reflection.AssemblyProductAttribute("5by5-PersistCarsInSQL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("5by5-PersistCarsInSQL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

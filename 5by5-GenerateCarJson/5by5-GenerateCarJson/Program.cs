@@ -9,7 +9,7 @@ List<String> GenerateCar()
 {
     List<String> cars = new();
 
-    for (int i = 0; i <= 30; i++)
+    for (int i = 0; i < 30; i++)
     {
         int carRandomYear = random.Next(1995, 2025);
         int carRandomModelYear = random.Next(carRandomYear, carRandomYear + 2);

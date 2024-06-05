@@ -15,3 +15,4 @@ C:\Users\adm\Documents\5by5-CarGarage\5by5-InsertCarManually\Services\obj\Debug\
 C:\Users\adm\Documents\5by5-CarGarage\5by5-InsertCarManually\Services\obj\Debug\net6.0\refint\Services.dll
 C:\Users\adm\Documents\5by5-CarGarage\5by5-InsertCarManually\Services\obj\Debug\net6.0\Services.pdb
 C:\Users\adm\Documents\5by5-CarGarage\5by5-InsertCarManually\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\adm\Documents\5by5-CarGarage\5by5-InsertCarManually\Services\obj\Debug\net6.0\Services.sourcelink.json

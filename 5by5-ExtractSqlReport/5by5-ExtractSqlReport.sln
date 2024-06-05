@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5by5-ExtractSqlReport", "5by5-ExtractSqlReport\5by5-ExtractSqlReport.csproj", "{78DA7884-9CF0-4648-8005-B978BC3427BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5by5-ExtractSqlReport", "5by5-ExtractSqlReport\5by5-ExtractSqlReport.csproj", "{78DA7884-9CF0-4648-8005-B978BC3427BB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "..\5by5-GenerateCarJson\Models\Models.csproj", "{0559FA28-5314-4BA9-8063-3E2F0D421F8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositories\Repositories.csproj", "{F6361C16-0CA8-47B0-ADAE-F3BCD71ACDF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{0903CE24-D03C-4E85-A2D6-955AE3B1A636}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controllers", "Controllers\Controllers.csproj", "{DCB5C282-27BB-4B85-9F2F-CE031399C6E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{0559FA28-5314-4BA9-8063-3E2F0D421F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0559FA28-5314-4BA9-8063-3E2F0D421F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0559FA28-5314-4BA9-8063-3E2F0D421F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6361C16-0CA8-47B0-ADAE-F3BCD71ACDF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6361C16-0CA8-47B0-ADAE-F3BCD71ACDF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6361C16-0CA8-47B0-ADAE-F3BCD71ACDF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6361C16-0CA8-47B0-ADAE-F3BCD71ACDF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0903CE24-D03C-4E85-A2D6-955AE3B1A636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0903CE24-D03C-4E85-A2D6-955AE3B1A636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0903CE24-D03C-4E85-A2D6-955AE3B1A636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0903CE24-D03C-4E85-A2D6-955AE3B1A636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCB5C282-27BB-4B85-9F2F-CE031399C6E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB5C282-27BB-4B85-9F2F-CE031399C6E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB5C282-27BB-4B85-9F2F-CE031399C6E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB5C282-27BB-4B85-9F2F-CE031399C6E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
